@@ -1,2 +1,2 @@
 # E-Commerce-Sales-Dashboard
-Interacctive dashboard to track and analyze onlinesales data.
+Interacctive dashboard to track and analyze online sales data.
